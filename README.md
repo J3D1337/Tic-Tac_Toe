@@ -6,3 +6,8 @@
 - Board reset upon win.
 - Alternating player turns using PHP sessions.
 - Simple HTML form for player interaction.
+
+## How To Install
+
+- Clone the repository
+- 
